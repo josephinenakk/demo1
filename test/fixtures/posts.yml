@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: Mytest
+  body: MyText is a sample text 1
+
+two:
+  title: MyString
+  body: MyText
